@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637644570 source:f:\c programs\array and patterns\1\main.cpp
+	<iostream>
+	<conio.h>
+
